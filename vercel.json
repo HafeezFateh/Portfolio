@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"rewrites":[
 		{
@@ -5,4 +6,13 @@
 			"destination" : "/portfolio.html"
 		}
 	]
+=======
+{
+	"rewrites":[
+		{
+			"source" :"/(.*)",
+			"destination" : "/portfolio.html"
+		}
+	]
+>>>>>>> 982a96e8df95e5ab2d53710407d08b49ee2178ba
 }

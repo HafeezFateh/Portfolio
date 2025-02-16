@@ -135,29 +135,7 @@
          <p>Loosely designed in HTML/CSS and coded in Sublime by yours truly. Deployed with Vercel. All text is set in the Inter typeface.</p>
      </div>
     </div>
-        <script type="text/javascript">
-        document.addEventListener("DOMContentLoaded", () => {
-                let nameElement = document.querySelector(".name");
-                let nameText = nameElement.innerText;
-                nameElement.innerHTML = ""; // Clear original text
 
-        nameText.split("").forEach((char, index) => {
-        let span = document.createElement("span");
-        span.innerText = char;
-        span.style.opacity = "0";
-        span.style.transform = "translateY(20px)";
-        span.style.display = "inline-block";
-        span.style.animation = `popUp 0.5s ease-in-out ${index * 100}ms forwards`;
-
-        if (char === " ") {
-            span.style.width = "10px"; // Add spacing for spaces
-        }
-
-        nameElement.appendChild(span);
-        });
-    });
-
-
-    </script>
+    
 </body>
 </html>

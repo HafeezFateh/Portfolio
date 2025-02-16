@@ -7,6 +7,8 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    opacity: 0;
+    animation: fadeInPage 2s ease-in-out forwards;
     background-color: #0B1835;
 }
 .left h1,.left p{

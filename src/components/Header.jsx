@@ -13,8 +13,8 @@ function Header(){
     return (
         <>  
             <div className="fixed w-full z-1">
-            <div className="lg:mx-30 lg:mt-5 lg:rounded-xl bg-gradient-to-br from-violet-800 via-stone-950 shadow-lg to-violet-700 pb-[1px] lg:p-[1px]  ">
-                <div className="bg-stone-800 lg:rounded-xl  p-5 lg:p-3 flex items-center justify-between">
+            <div className="mx-3  lg:mx-30 mt-5 rounded-xl bg-gradient-to-br from-violet-800 via-stone-950 shadow-lg to-violet-700 pb-[1px] lg:p-[1px]  ">
+                <div className="bg-stone-800 rounded-xl  p-5 lg:p-3 flex items-center justify-between">
                     <Link to='/'><h1 className="font-semibold text-stone-100">Profound X Engineer</h1></Link>
                     <div className="hidden lg:flex gap-3 text-stone-200 flex-1 justify-center">
                         <Link to='/' className={(location.pathname ==='/'? "text-purple-800" : "text-stone-200") +  " hover:text-purple-800"}>Home</Link>
@@ -34,8 +34,8 @@ function Header(){
             </div>
              { open &&
             
-            <div className=" bg-gradient-to-br from-violet-800 via-stone-950 shadow-lg to-violet-700 pb-[1px]  ">
-                <div className="bg-stone-800  shadow text-stone-200 p-2 flex flex-col gap-1">
+            <div className="mt-2 mx-3 bg-gradient-to-br from-violet-800 via-stone-950 shadow-lg to-violet-700 pb-[1px] rounded-xl ">
+                <div className="bg-stone-800  shadow text-stone-200 p-2 flex flex-col gap-1 rounded-xl">
                     <Link to='/' className={(location.pathname==='/'? "bg-stone-950/50  p-2 block" : "")+"p-2 block rounded-lg hover:bg-stone-950/50"}>Home</Link>
                     <Link to='/about' className={(location.pathname==='/about'? "bg-stone-950/50  p-2 block" : "")+"p-2 block rounded-lg hover:bg-stone-950/50"}>About</Link>
                     <Link to='/portfolio' className={(location.pathname==='/portfolio'? "bg-stone-950/50  p-2 block" : "")+"p-2 block rounded-lg hover:bg-stone-950/50"}>Portfolio</Link>

@@ -19,23 +19,23 @@ function About(){
                             <div className="w-[25px] h-[2px] rounded-2xl bg-purple-800 "></div>
                         </div>
                         <div className="flex lg:justify-center flex-wrap gap-2 text-stone-400 mt-5">
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Java</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Python</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">JavaScript</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">HTML</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">CSS</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">TailwindCSS</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Bootstrap</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">React.js</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">GSAP</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Node.js</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Express.js</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">EJS</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">PostgreSQL</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Authentication</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Wordpress</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">Git</span>
-                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-5 py-1 rounded-lg">GitHub</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Java</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Python</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">JavaScript</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">HTML</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">CSS</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">TailwindCSS</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Bootstrap</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">React.js</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">GSAP</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Node.js</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Express.js</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">EJS</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">PostgreSQL</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Authentication</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Wordpress</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">Git</span>
+                            <span className="shadow-lg hover:bg-purple-800/30 bg-purple-500/30 px-2 py-1 rounded-lg">GitHub</span>
                             
 
 

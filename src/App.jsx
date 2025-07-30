@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Home';
 import Portfolio from './Portfolio';
-import Connect from './connect';
+import Connect from './Connect';
 import Certifications from './Certifications';
 import Education from './Education';
 

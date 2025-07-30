@@ -13,7 +13,7 @@ function Header(){
     return (
         <>
             <div className="mx-3 lg:mx-30 mt-5 bg-gradient-to-br from-violet-800 via-stone-950 shadow-lg to-violet-700 p-[1px] rounded-xl  ">
-                <div className="bg-stone-800 rounded-xl p-3 flex items-center justify-between">
+                <div className="bg-stone-800 rounded-xl p-5 flex items-center justify-between">
                     <Link to='/'><h1 className="font-semibold text-stone-100">Profound X Engineer</h1></Link>
                     <div className="hidden lg:flex gap-3 text-stone-200 flex-1 justify-center">
                         <Link to='/' className={(location.pathname ==='/'? "text-purple-800" : "text-stone-200") +  " hover:text-purple-800"}>Home</Link>

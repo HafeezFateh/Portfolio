@@ -11,32 +11,32 @@ function Portfolio(){
                     <div className="mx-5 mt-3 grid gap-5 grid-cols-1 lg:grid-cols-3">
                        
                        <ProjectCard
-                        image="../src/images/eruditex.png"
+                        image="./images/eruditex.png"
                         title="Erudite-X website"
                         link="https://erudite-x-static-website.vercel.app/"
                        />
                        <ProjectCard
-                        image="../src/images/townora.png"
+                        image="./images/townora.png"
                         title="Townora - Web app"
                         link="https://visharam-app.vercel.app/"
                        />
                        <ProjectCard
-                        image="../src/images/cahcet.png"
+                        image="./images/cahcet.png"
                         title="CAHCET - Official college website"
                         link="https://cahcet.in/"
                        />
                        <ProjectCard
-                        image="../src/images/stufotech.png"
+                        image="./images/stufotech.png"
                         title="StuFoTech - College web app"
                         link="#"
                        />
                        <ProjectCard
-                        image="../src/images/xameedar.png"
+                        image="./images/xameedar.png"
                         title="Xameedar - Land buy & sell website"
                         link="https://xameedar-i1kz.vercel.app/"
                        />
                        <ProjectCard
-                        image="../src/images/falah.png"
+                        image="./images/falah.png"
                         title="Al Falah - NGO website"
                         link="https://al-falah-foundation-f6fv.vercel.app/"
                        />

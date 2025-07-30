@@ -13,16 +13,16 @@ function Home(){
                 <h1 className="text-2xl text-stone-300">My Expertise</h1>
                 <div className="grid grid-cols-1 lg:grid-cols-3">
                     <div className="mt-5 mx-5 p-5 border border-stone-700  rounded-xl flex flex-col items-center justify-center">
-                        <img src="../src/images/site.svg" alt="WebApp" className="w-[150px] h-[150px]"/>
+                        <img src="./images/site.svg" alt="WebApp" className="w-[150px] h-[150px]"/>
                         <h1 className="text-stone-300">Websites</h1>
                     </div>
                     <div className="mt-5 mx-5 p-5 border border-stone-700  rounded-xl flex flex-col items-center justify-center">
-                        <img src="../src/images/app.svg" alt="WebApp" className="w-[150px] h-[150px]"/>
+                        <img src="./images/app.svg" alt="WebApp" className="w-[150px] h-[150px]"/>
                         <h1 className="text-stone-300">Web Apps</h1>
                     </div>
 
                      <div className="mt-5 mx-5 p-5 border border-stone-700  rounded-xl flex flex-col items-center justify-center">
-                        <img src="../src/images/ai.svg" alt="WebApp" className="w-[150px] h-[150px]"/>
+                        <img src="./images/ai.svg" alt="WebApp" className="w-[150px] h-[150px]"/>
                         <h1 className="text-stone-300">Aritificial Intelligence</h1>
                     </div>
                 </div>

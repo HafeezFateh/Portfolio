@@ -6,7 +6,7 @@ function Portfolio(){
         <>
             <Layout>
                 
-                <div className="mx-5 mt-10 flex flex-col gap-3">
+                <div className="mx-5 lg:mx-30 mt-20 flex flex-col gap-3">
                     <h1 className="text-2xl font-semibold text-stone-200">Projects</h1>
                     <div className="mx-5 mt-3 grid gap-5 grid-cols-1 lg:grid-cols-3">
                        

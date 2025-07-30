@@ -5,10 +5,10 @@ function Home(){
         <>
             <Layout>
             <div id="hero" className="mx-3 lg:mx-30 mt-20  p-2 flex flex-col lg:items-center gap-2">
-                <h1 className=" text-4xl  bg-gradient-to-br from-stone-100 to-stone-700 text-transparent bg-clip-text">Hi, I'm Hafeez ur Rahman</h1>
+                <h1 className=" text-4xl  bg-gradient-to-br from-stone-100 to-stone-600 text-transparent bg-clip-text">Hi, I'm Hafeez ur Rahman</h1>
                 <p className="text-stone-600 text-xl lg:text-center max-w-[1000px]">I am a Full Stack Web Developer bringing ideas into reality  thereby building responsive, user-focused web applications using modern technologies like React, Node.js, Express, and PostgreSQL. I enjoy turning complex problems into elegant solutions and continuously improving my craft.</p>
             </div>
-            <div className="h-[100px] bg-gradient-to-b from-stone-900 to-stone-950/50"></div>
+            <div className="h-[70px] bg-gradient-to-b from-stone-900 to-stone-950/50"></div>
             <div id="main" className="p-2 flex flex-col gap-4 bg-stone-950/50">
                 <h1 className="mx-3 lg:mx-30 text-2xl text-stone-300">My Expertise</h1>
                 

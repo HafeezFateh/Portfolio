@@ -3,6 +3,7 @@ import Home from './Home';
 import Portfolio from './Portfolio';
 import Connect from './connect';
 import Certifications from './Certifications';
+import Education from './Education';
 
 function App(){
     return (
@@ -12,7 +13,7 @@ function App(){
                     <Route path="/" element={<Home />} />
                     <Route path="/about" element={<Home />} />
                     <Route path="/portfolio" element={<Portfolio />} />
-                    <Route path="/education" element={<Home />} />
+                    <Route path="/education" element={<Education />} />
                     <Route path="/certifications" element={<Certifications />} />
                     <Route path="/connect" element={<Connect />} />
                    
